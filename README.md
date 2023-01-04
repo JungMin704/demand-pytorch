@@ -11,6 +11,11 @@ We report MAE in Beijing taxi flow prediction dataset for each prediction steps.
 | STResNet | | | | |
 | DeepSTN  | | | | |
 
+We report MAE in Beijing taxi flow prediction dataset for each prediction steps.
+| Model | BikeNYC (15 min) | BikeNYC  (30 min) | BikeNYC (1 hour) |
+|-------|--|--|--|
+| ConvLSTM | | | | 2.71 |
+
 ## Getting Started
 
 ### Data
